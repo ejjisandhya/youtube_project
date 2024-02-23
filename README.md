@@ -4,6 +4,7 @@
 The objective of this project is to establish a secure and efficient framework for managing, streamlining, and analyzing structured and semi-structured data extracted from YouTube videos. The analysis will be centered around video categories and trending metrics.
 
 **Project Goals**:
+
 Data Ingestion: Develop a robust mechanism for ingesting data from diverse sources.
 
 ETL System: Transform raw data into a standardized format conducive to analysis.
