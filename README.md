@@ -5,17 +5,29 @@ The objective of this project is to establish a secure and efficient framework f
 
 **Project Goals**:
 Data Ingestion: Develop a robust mechanism for ingesting data from diverse sources.
+
 ETL System: Transform raw data into a standardized format conducive to analysis.
+
 Data Lake: Implement a centralized repository (data lake) for storing data from multiple sources.
+
 Scalability: Ensure the system can seamlessly scale to accommodate the growing volume of data.
+
 Cloud Integration: Utilize AWS cloud services for processing large datasets efficiently.
+
 Reporting: Construct a comprehensive dashboard to derive insights from the analyzed data.
+_
 Services Utilized
+
 Amazon S3: Leverage Amazon S3 for object storage, providing scalability, data availability, security, and performance.
+
 AWS IAM: Employ Identity and Access Management for secure management of access to AWS services and resources.
+
 QuickSight: Utilize Amazon QuickSight, a scalable, serverless, machine learning-powered BI service for data visualization.
+
 AWS Glue: Implement AWS Glue, a serverless data integration service facilitating data discovery, preparation, and aggregation for analytics and machine learning.
+
 AWS Lambda: Leverage AWS Lambda, a serverless computing service enabling code execution without server management.
+
 AWS Athena: Implement AWS Athena, an interactive query service for S3 that eliminates the need to load data, as it stays in S3.
 
 ## Dataset Used
